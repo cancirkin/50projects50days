@@ -9,3 +9,7 @@ Today my first day and I am sharing my first application, can be used as a photo
 # Day 2 - Progress Steps
 
 This is my second day. I designed an application that you can use in your form applications or shopping cards.
+
+# Day 3 - Rotating Navigation
+
+I designed a navigation bar with a very nice animation using css. I think it's great to use on blog sites.
